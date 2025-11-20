@@ -1,27 +1,13 @@
 # ITOM2308 Leveraging Insights from Public Data
 ###  Guest Lecture | November 20, 2025
 
-## Lecturer Bio | William Welles
+## Lecturer Contact Info
 
-`tbl_career`
-
-| employer        | department                     | position                 | current_ind |
-|-----------------|--------------------------------|--------------------------|-------------|
-| Dallas CAD      | Quality Control                | Assistant Manager        | Y |
-| Dallas CAD      | Quality Control                | Data Analyst             | N |
-| Dallas CAD      | Geographic Information Systems | Specalist II (Developer) | N |
-| Dallas CAD      | Geographic Information Systems | Specialist I             | N |
-| Nacogdoches CAD | Mapping                        | Clerk                    | N |
-
----
-
-`tbl_education`
-
-| school_name                              | degree_type | degree_name            |
-|------------------------------------------|-------------|------------------------|
-| Stephen F. Austin State Univeristy (SFA) |  M.S.       | Environmental Science  |
-| University of Illinois Chicago (UIC)     |  B.S.       | Chemistry              |
-
+William Welles
+Assistant Manager | Quality Control Division
+Dallas Central Appraisal District
+wellesw@dcad.org
+214.819.2392
 
 ## Objectives
   
