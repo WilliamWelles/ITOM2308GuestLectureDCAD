@@ -3,10 +3,10 @@
 
 ## Lecturer Contact Info
 
-William Welles
-Assistant Manager | Quality Control Division
-Dallas Central Appraisal District
-wellesw@dcad.org
+William Welles  
+Assistant Manager | Quality Control Division  
+Dallas Central Appraisal District  
+wellesw@dcad.org  
 214.819.2392
 
 ## Objectives
